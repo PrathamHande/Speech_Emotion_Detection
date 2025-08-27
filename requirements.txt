@@ -1,0 +1,12 @@
+# This is a placeholder file for requirements.txt
+tensorflow>=2.0.0
+librosa>=0.10.0
+soundfile>=0.12.1
+pyaudio>=0.2.13
+scikit-learn>=1.4.2
+numpy>=1.26.0
+pandas
+matplotlib>=3.8.4
+seaborn
+tqdm>=4.66.2
+Pillow>=10.3.0
